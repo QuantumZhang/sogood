@@ -13,4 +13,5 @@ link: http://blog.csdn.net/zhangxmu/article/details/49620883
 
 # Git版本控制与工作流
 link: http://www.jianshu.com/p/67afe711c731
+link: http://www.eoeandroid.com/thread-274556-1-1.html
 
