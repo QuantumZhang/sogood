@@ -11,3 +11,6 @@ link: https://www.dataquest.io/blog/how-to-setup-a-data-science-blog/
 link: http://blog.csdn.net/zhangxmu/article/details/49620883
 
 
+# Git版本控制与工作流
+link: http://www.jianshu.com/p/67afe711c731
+
